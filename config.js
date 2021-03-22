@@ -20,4 +20,14 @@ module.exports = {
     charset: "utf8mb4",
     timezone: "Europe/Istanbul",
   },
+
+  local_database: {
+    host: "78.47.41.6",
+    user: "root",
+    password: "HeXFbmeHeXFbmeEr3LLsD2CEr3LLsD2C",
+    database: "",
+    port: 60330,
+    charset: "utf8mb4",
+    timezone: "Europe/Istanbul",
+  },
 };
