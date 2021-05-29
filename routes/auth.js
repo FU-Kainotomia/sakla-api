@@ -5,7 +5,6 @@ const md5 = require("blueimp-md5");
 const sha1 = require("js-sha1");
 const jwt = require("jsonwebtoken");
 const config = require("../config");
-//const transporter = require("../helpers/transporter");
 const { v4: uuid } = require("uuid");
 
 

@@ -16,6 +16,7 @@
     "expo-server-sdk": "^3.6.0",
     "express": "~4.16.1",
     "fs": "0.0.1-security",
+    "gifsicle": "^5.2.0",
     "https": "^1.0.0",
     "js-sha1": "^0.6.0",
     "jsonwebtoken": "^8.5.1",
@@ -26,12 +27,14 @@
     "node-cron": "^2.0.3",
     "node-native-zip": "^1.1.0",
     "nodemailer": "^6.4.14",
+    "pngquant-bin": "^6.0.0",
     "qrcode": "^1.4.4",
     "socket.io": "^2.3.0",
     "striptags": "^3.1.1",
     "uuid": "^8.3.1"
   },
   "devDependencies": {
+    "compress-images": "^1.9.9",
     "nodemon": "^2.0.6"
   }
 }
